@@ -1,0 +1,2 @@
+...php -v
+...SE PATH=%PATH%;C:/PHP
